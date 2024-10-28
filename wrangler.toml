@@ -7,5 +7,5 @@ route = "dark-field-6def.f5.workers.dev/*"
 compatibility_date = "2022-05-03"
 
 kv_namespaces = [ 
-  { binding = "shortlink", id = "78c85f02922542bc87bbb0a012e3f0c2" }
+  { binding = "shortlink", id = "d48c83c9b426435ab50e256a9cd99746" }
 ]
